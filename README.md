@@ -6,7 +6,7 @@ For the legacy Bootstrap 3 version of this theme, you can view the [last stable 
 
 ## Preview
 
-[![SB Admin 2 Preview](https://github.com/Walaa-Zahran/BootstrapAdminPage-Docker/blob/main/screencapture-localhost-8080-2023-06-25-16_44_11.png)
+![SB Admin 2 Preview](https://github.com/Walaa-Zahran/BootstrapAdminPage-Docker/blob/main/screencapture-localhost-8080-2023-06-25-16_44_11.png)
 
 **[Launch Live Preview](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)**
 
